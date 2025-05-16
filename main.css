@@ -1,0 +1,108 @@
+
+
+
+body {
+    background: linear-gradient(to right, #ad75e2, #8ec5fc); /* Gradient background */
+}
+
+.btn-wide {
+    width: 50%;  /* Wider button */
+    display: block;  /* Block level for width to take effect */
+    margin: 0 auto;  /* Center the button */
+}
+
+form {
+    background-color: #ffffff;  /* Light background for the form itself */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1); /* Soft shadow for some depth */
+}
+
+.btn-english {
+    background-color: #7d3ad3;
+    color: white;
+
+}
+
+.btn-burmese {
+    background-color: #f97f11;
+    color: white;
+
+}
+
+.btn-hindi {
+    background-color: #d787f7;
+    color: white;
+
+}
+
+.title{
+       text-align:center;
+}
+
+.subtitle {
+    text-align: center;
+
+}
+
+
+
+.bg-primary {
+            background-color: #8305ba !important;
+            color: white;
+            text-align: center;
+            padding: 5px 0;
+            font-size: 20px;
+
+            }
+
+.bg-secondary {
+            background-color: #fc9304 !important;
+            color: white;
+            text-align: center;
+            padding: 5px 0;
+
+            font-size: 20px;
+
+
+
+            }
+
+
+.container {
+                padding: 15px 0;
+            }
+
+
+
+
+.form-group{
+
+    text-align:center;
+
+}
+
+
+.form-control {
+    width: 300px;
+    margin: 0 auto;
+}
+
+
+
+
+.modal-body{
+    background-color: #cacbcb;
+
+}
+
+.title{
+
+  margin-bottom: 20px;
+}
+
+.subtitle{
+    margin-bottom: 30px;
+
+}
+
